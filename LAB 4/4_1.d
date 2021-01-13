@@ -1,0 +1,11 @@
+.\4_1.o: 4_1.c
+.\4_1.o: PLL.h
+.\4_1.o: tm4c123gh6pm.h
+.\4_1.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\4_1.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\4_1.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\4_1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\4_1.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\4_1.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\4_1.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\4_1.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
