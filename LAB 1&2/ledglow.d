@@ -1,0 +1,9 @@
+.\ledglow.o: LEDGLOW.c
+.\ledglow.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\ledglow.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\ledglow.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\ledglow.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ledglow.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ledglow.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ledglow.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\ledglow.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
