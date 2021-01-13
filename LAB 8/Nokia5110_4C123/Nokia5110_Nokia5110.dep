@@ -1,0 +1,19 @@
+Dependencies for Project 'Nokia5110', Target 'Nokia5110': (DO NOT MODIFY !)
+F (.\startup.s)(0x572302B8)(--cpu Cortex-M4 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\Nokia5110.c)(0x53947E76)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\nokia5110.o --omf_browse .\nokia5110.crf --depend .\nokia5110.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (Nokia5110.h)(0x53E89236)
+F (.\PLL.c)(0x53945978)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (PLL.h)(0x52305D42)
+F (.\UART.h)(0x52319DE8)()
+F (.\UART.c)(0x52319DE8)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (UART.h)(0x52319DE8)
+F (.\tm4c123gh6pm.h)(0x51D4154A)()
+F (.\Nokia5110UARTMain.c)(0x5C91F49A)(-c --cpu Cortex-M4 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o .\nokia5110uartmain.o --omf_browse .\nokia5110uartmain.crf --depend .\nokia5110uartmain.d)
+I (PLL.h)(0x52305D42)
+I (tm4c123gh6pm.h)(0x51D4154A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (Nokia5110.h)(0x53E89236)
+I (UART.h)(0x52319DE8)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
