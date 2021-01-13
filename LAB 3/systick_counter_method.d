@@ -1,0 +1,11 @@
+.\systick_counter_method.o: systick_counter_method.c
+.\systick_counter_method.o: PLL.h
+.\systick_counter_method.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\systick_counter_method.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\systick_counter_method.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\systick_counter_method.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\systick_counter_method.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\systick_counter_method.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\systick_counter_method.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\systick_counter_method.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\systick_counter_method.o: tm4c123gh6pm.h
